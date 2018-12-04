@@ -8,6 +8,7 @@ void main()
 	{
 		iconta++;//incremento variabile contatore
 		cout << "Prova:" <<iconta << endl;
+		iconta--;
 		
 	}
 }
